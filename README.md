@@ -25,7 +25,7 @@ javac *.java
 java Trabalho
 
 ## Participantes:
-Arthur Bavaresco Spada
-Luis Thaylor dos Santos
-Maria Eduarda Bernardi Schulze
-Mariana Mezzavila Melara
+Arthur Bavaresco Spada,
+Luis Thaylor dos Santos,
+Maria Eduarda Bernardi Schulze,
+Mariana Mezzavila Melara.
