@@ -5,7 +5,7 @@
 
 ## Funcionalidades
 
-# - Criação de objetos Veículo com atributos como marca, modele ano e placa.
+- Criação de objetos Veículo com atributos como marca, modele ano e placa.
 - Manipulação básica de dados em memória.
 - ​Estrutura compatível para futuras expansões.
 
