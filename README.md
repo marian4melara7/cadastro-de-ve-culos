@@ -3,9 +3,9 @@
 ## Descrição
 ​Este é um projeto simples em Java para gerenciar o cadastro de veículos. Ele serve como uma base para aprender conceitos como programação orientada a objetos, manipulação de dados e estrutura de classes, sendo facilmente adaptável para projetos maiores.
 
-#Funcionalidades
+## Funcionalidades
 
-- Criação de objetos Veículo com atributos como marca, modele ano e placa.
+# - Criação de objetos Veículo com atributos como marca, modele ano e placa.
 - Manipulação básica de dados em memória.
 - ​Estrutura compatível para futuras expansões.
 
